@@ -17,7 +17,7 @@
 ## 📝 Table of Contents
 
 - [About the Course](#about)
-- [Class Material](METHODOLOGY.md)
+- [Class Material](/classes)
 - [License](/LICENSE)
 - [Professors](#authors)
 
@@ -27,3 +27,13 @@ This is an intermediate-level course in computing, where students will be famili
 
 ### 😎 Learning Outcomes <a name = ""></a>
 Throughout the course, students will have a general idea of computing security with the necessary basis to understand risks, threats, and vulnerabilities surrounding current computer systems, as well as controls and protection methods against possible attacks. Students will be acquainted with the current legal system regarding computer system security nationally and internationally.
+
+## ✍️ Professors <a name = "authors"></a>
+<table>
+<tr>
+  <th> <img src="fig/barreto.png" alt="Alexandre Barreto" width="80px" height="45px"> </th>
+  <th> <a href="https://github.com/kabartsjc" rel="noopener">Alexandre Barreto [@kabartsjc]</a> </th>
+  <th> <img src="fig/tec_logo.png" alt="Tecnológico de Monterrey" width="100px" height="45px"> </th>
+</tr>
+</table>
+
