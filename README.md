@@ -25,5 +25,5 @@
 
 This is an intermediate-level course in computing, where students will be familiar with the necessary aspects and techniques to guarantee the security of the computer equipment in an organization. It requires previous knowledge of operating systems and basic network concepts. The learning outcome will consist of acquiring the necessary competencies to guarantee confidentiality, integrity, and information availability.
 
-##😎 Learning Outcomes <a name = ""></a>
+### 😎 Learning Outcomes <a name = ""></a>
 Throughout the course, students will have a general idea of computing security with the necessary basis to understand risks, threats, and vulnerabilities surrounding current computer systems, as well as controls and protection methods against possible attacks. Students will be acquainted with the current legal system regarding computer system security nationally and internationally.
